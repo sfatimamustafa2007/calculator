@@ -21,7 +21,7 @@ operator : String
 },
 {
 type: "list",
-name : "Operator",
+name : "operator",
 choices: ["+","-","*","/"],
 message: "Select operation:"
 },
